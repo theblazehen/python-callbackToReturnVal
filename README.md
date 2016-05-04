@@ -1,0 +1,1 @@
+For example a function `client.call` needs a callback, this can be returned as a value by doing `callbackToReturnVal.runSync(client.call('getRoomIdByNameOrId', ['general'], callback=callbackToReturnVal.returnCallback))`
