@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name="callbackToReturnVal",
-    version="0.1.1",
+    version="0.1.2",
     description="Wrapper function that returns the value that is sent to a callback value as the value that the wrapper gives",
     licence='MIT',
     author="Jeandre Le Roux",
